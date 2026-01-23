@@ -1,2 +1,2 @@
 # Javascript-Practice
-My JavaScript practice programs
+basic javascript programs for improve syntax grip.
